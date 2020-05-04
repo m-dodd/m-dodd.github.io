@@ -1,0 +1,4 @@
+Sitemap: https://m-dodd.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: m-dodd.github.io
