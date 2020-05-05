@@ -984,15 +984,22 @@ CONTENT_FOOTER = '''
   </a>
 </span>
 </p>
-<p>
+<p style="font-size:14px";"color:grey">
   Contents &copy; {date}  <a href="mailto:{email}">{author}</a>
-  &mdash;
-  {license}
   &mdash;
   Powered by <a href="https://getnikola.com" rel="nofollow">Nikola</a>
 </p>
 </div>
 '''
+
+# <p>
+#   Contents &copy; {date}  <a href="mailto:{email}">{author}</a>
+#   &mdash;
+#   {license}
+#   &mdash;
+#   Powered by <a href="https://getnikola.com" rel="nofollow">Nikola</a>
+# </p>
+
 
 # Things that will be passed to CONTENT_FOOTER.format().  This is done
 # for translatability, as dicts are not formattable.  Nikola will
@@ -1264,9 +1271,14 @@ SHOW_SOURCELINK = False
 # Extra things you want in the pages HEAD tag. This will be added right
 # before </head>
 # (translatable)
-# MARK NOTES - I added the google analytics tag here instead of BODY_END as Google recommended adding it to HEAD
 EXTRA_HEAD_DATA = '''
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css">
+'''
+
+# Google Analytics or whatever else you use. Added to the bottom of <body>
+# in the default template (base.tmpl).
+# (translatable)
+BODY_END = """
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-165458738-1"></script>
 <script>
@@ -1276,11 +1288,7 @@ EXTRA_HEAD_DATA = '''
 
   gtag('config', 'UA-165458738-1');
 </script>
-'''
-# Google Analytics or whatever else you use. Added to the bottom of <body>
-# in the default template (base.tmpl).
-# (translatable)
-# BODY_END = ""
+"""
 
 # The possibility to extract metadata from the filename by using a
 # regular expression.
