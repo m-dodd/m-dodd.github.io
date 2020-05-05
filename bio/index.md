@@ -1,5 +1,5 @@
 <!--
-.. title: Bio
+.. title: Mark Dodd
 .. slug: bio
 .. date: 2020-04-15 09:04:34 UTC-06:00
 .. tags:
@@ -9,7 +9,7 @@
 .. type: text
 -->
 
-## Who am I?
+### Who am I?
 
 Throughout my career, I’ve been frequently engaged by large oil and gas companies to oversee programming and project delivery. Leveraging data analytics, technical programming skills, and a talent for problem solving, I consistently deliver high-impact results that drive efficiency, cost-savings, and quality improvements. 
 
