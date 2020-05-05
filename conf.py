@@ -147,9 +147,9 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/index.html", "Home"),
-        ("/bio/index.html", "Bio"),
-        ("/portfolio/index.html", "Portfolio"),
+        ("/", "Home"),
+        ("/bio/", "Bio"),
+        ("/portfolio/", "Portfolio"),
         #("/blog/index.html", "Blog"),
     ),
 }
