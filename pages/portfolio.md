@@ -15,7 +15,7 @@
 
 This was an incredibly fun project. I had always wanted to see what the distribution of shots and goals looked like, but had never seen the visualization that I had envisioned in my mind. This project was my chance to realize my vision.
 
-As it is difficult to show this project on a website here is a [link to the github repo](https://github.com/m-dodd/nhl-heatmap). The heatmap is interactive, and you can select if you want a view a Season of data, or an individual random game, or an individual player.s
+As it is difficult to show this project on a website here is a [link to the github repo](https://github.com/m-dodd/nhl-heatmap). The heatmap is interactive, and you can select if you want a view a Season of data, or an individual random game, or an individual player.
 
 The project was completed in Jupyter Notebooks and uses plotly to draw the rink surface and generate the heat map. Unfortunately, I have not found a way to convert this project into a nice html page due to using the ipywidgets. I hope you take the opportunity to build this project yourself with the notebook I have provided so that you can play around with the interface and enjoy it as I have. I have provided some screen shots on the github `README.md` so that you can get a feel for the interface and the application.
 
