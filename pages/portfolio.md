@@ -9,6 +9,21 @@
 .. type: text
 -->
 
+## Convolution Neural Network - Image Classification
+
+---
+
+[This was a group project](https://github.com/m-dodd/dog-vs-cats) that completed my Data Science Post-Baccalaureate Diploma at the University of Calgary.
+
+We designed and built a Convolutional Neural Network (CNN) in Python using TensorFlow and Keras to classify images of cats and dogs. We went through a number of iterations during this process until arriving at our final solution achieving an accuracy of 97% after taking advantage of learning rate scheduling and data augmentation.
+
+Cats vs Dogs is a beautiful data set for image classification and we hope you enjoy our solution.
+
+* [Final Report](link://slug/dogs-vs-cats-final)
+* [GitHub Repository](https://github.com/m-dodd/dog-vs-cats)
+
+
+
 ## NHL Heatmap
 
 ---
@@ -17,7 +32,7 @@ This was an incredibly fun project. I had always wanted to see what the distribu
 
 As it is difficult to show this project on a website here is a [link to the github repo](https://github.com/m-dodd/nhl-heatmap). The heatmap is interactive, and you can select if you want a view a Season of data, or an individual random game, or an individual player.
 
-The project was completed in Jupyter Notebooks and uses plotly to draw the rink surface and generate the heat map. Unfortunately, I have not found a way to convert this project into a nice html page due to using the ipywidgets. I hope you take the opportunity to build this project yourself with the notebook I have provided so that you can play around with the interface and enjoy it as I have. I have provided some screen shots on the github `README.md` so that you can get a feel for the interface and the application.
+The project was completed in Jupyter Notebooks and uses plotly to draw the rink surface and generate the heat map. Unfortunately, there is no easy way to convert this project into a html page due to using the ipywidgets. I hope you take the opportunity to build this project yourself with the notebook I have provided so that you can play around with the interface and enjoy it as I have. I have provided some screen shots on the github `README.md` so that you can get a feel for the interface and the application.
 
 
 
