@@ -17,7 +17,7 @@ import time
 
 # Data about this site
 BLOG_AUTHOR = "Mark Dodd"  # (translatable)
-BLOG_TITLE = "Mark's AI Adventures"  # (translatable)
+BLOG_TITLE = "Dodd's Data Science"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
 SITE_URL = "https://m-dodd.github.io/"
@@ -150,6 +150,10 @@ NAVIGATION_LINKS = {
         ("/", "Home"),
         ("/bio/", "Bio"),
         ("/portfolio/", "Portfolio"),
+        # ((("/portfolio/", "Portfolio"),
+        #   ("link://slug/dogs-vs-cats-final", "Convolutional Neural Network"),
+        #   ("https://github.com/m-dodd/nhl-heatmap", "NHL Heatmap")), "Abril's Portfolio")
+        # ,
         #("/blog/index.html", "Blog"),
     ),
 }
@@ -163,13 +167,15 @@ NAVIGATION_ALT_LINKS = {
 
 # Name of the theme to use.
 #THEME = "bootblog4"
-THEME = "bootstrap4"
+#THEME = "bootstrap4"
+THEME = "cerulean"
 
 # Primary color of your theme. This will be used to customize your theme.
 # Must be a HEX value.
-THEME_COLOR = '#5670d4'
+#THEME_COLOR = '#5670d4'
 #THEME_COLOR = '#3b55b8'
 #THEME_COLOR = '#ba3050'
+THEME_COLOR = '#ff0000'
 
 # Theme configuration. Fully theme-dependent. (translatable)
 # Examples below are for bootblog4.
@@ -190,7 +196,8 @@ THEME_CONFIG = {
         # Strip HTML from featured post text.
         'featured_strip_html': False,
         # Contents of the sidebar, If empty, the sidebar is not displayed.
-        'sidebar': ''
+        'sidebar': '',
+        'navbar_light': False
     }
 }
 
@@ -298,7 +305,7 @@ DATE_FORMAT = 'YYYY-MM-dd'
 # One or more folders containing files to be copied as-is into the output.
 # The format is a dictionary of {source: relative destination}.
 # Default is:
-# FILES_FOLDERS = {'files': ''}
+FILES_FOLDERS = {'files': ''}
 # Which means copy 'files' into 'output'
 
 # One or more folders containing code listings to be processed and published on
