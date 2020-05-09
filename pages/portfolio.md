@@ -9,23 +9,6 @@
 .. type: text
 -->
 
-## Image Classification
-
-#### Differentiating Images of Dogs and Cats using a Convolutional Neural Network and Google Cloud's Deep Learning VM Image
-
----
-
-The objective of our team for this project was to learn about image classification while leveraging the Google Cloud Platform. 
-
-We designed and built a Convolutional Neural Network (CNN) in Python using TensorFlow and Keras to classify images of cats and dogs. As our objective was to learn as much as possible we designed our neural network from scratch without leveraging transfer learning. We went through a number of iterations during this process until arriving at our final solution achieving an accuracy of 97% after taking advantage of learning rate scheduling and data augmentation.
-
-Cats vs Dogs is a beautiful data set for image classification and we hope you enjoy our solution.
-
-* [Final Report](link://slug/dogs-vs-cats-final)
-* [GitHub Repository](https://github.com/m-dodd/dog-vs-cats)
-
-
-
 ## Hockey Analytics
 
 #### Visualizing the Distribution of Hockey Statistics using Heatmaps
@@ -41,6 +24,21 @@ The project was completed in Jupyter Notebooks and uses plotly to draw the rink 
 ![Ovechkin](/images/ovechkin-crop.png)
 
 
+
+# Image Classification
+
+#### Differentiating Images of Dogs and Cats using a Convolutional Neural Network and Google Cloud's Deep Learning VM Image
+
+---
+
+The objective of our team for this project was to learn about image classification while leveraging the Google Cloud Platform. 
+
+We designed and built a Convolutional Neural Network (CNN) in Python using TensorFlow and Keras to classify images of cats and dogs. As our objective was to learn image classification we designed our convolutional neural network from scratch without leveraging transfer learning. We went through a number of iterations during this process until arriving at our final solution achieving an accuracy of 97% after taking advantage of learning rate scheduling and data augmentation.
+
+Cats vs Dogs is a beautiful data set for image classification and we hope you enjoy our solution.
+
+* [Final Report](link://slug/dogs-vs-cats-final)
+* [GitHub Repository](https://github.com/m-dodd/dog-vs-cats)
 
 
 
@@ -73,3 +71,5 @@ There are two parts to this project:
 2. The source code for [data cleaning, wrangling and analysis](https://github.com/m-dodd/rock-climbing) performed in support of the [data story](https://medium.com/@buckthecanuck/climb-through-the-data-with-me-80fb144ea408) can be found at the [github repository](https://github.com/m-dodd/rock-climbing).
 
 The original data for this story can be found at [Kaggle](https://www.kaggle.com/dcohen21/8anu-climbing-logbook) and it was collected from the website [8a.nu](https://www.8a.nu/) on 9/13/2017 by David Cohen. I owe a large thanks to David for creating the dataset as without it this project wouldn't be possible.
+
+![bmi_grade](/images/bmi_vs_grade.png)

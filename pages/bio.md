@@ -13,29 +13,23 @@ Throughout my career, I’ve worked closely with energy companies to oversee pro
 
 The Post-Baccalaureate Diploma in Data Science and Analytics that I recently completed at the University of Calgary has given me an in depth understanding of statistics, programming, big data, regression, visualization and machine learning.
 
-Notable projects and career highlights include:
-
-* Computer Vision - Created a convolutional neural network (CNN) utilizing TensorFlow / Keras on Google Cloud
-* Housing Price Prediction – Linear & Elasticnet Regression Analysis, SVM, 80+ features (feature engineering)
-* NHL Data Exploration & Analytics - Created interactive heat map of 300,000 events (shots on goal and goals).
-* NHL Prediction Model Development – Leveraged NHL Data and logistic regression model.
-* Hadoop & MapReduce Paradigm Presentation (Big Data) – Delivered 30-minute Class Presentation/Instruction.
-* Spearheaded development of a customized compressor control program.
-
 Additionally, my practical experience is complemented by a Bachelor of Science in Electrical Engineering, and proficiencies in Data Science, Data Cleaning, Data Mining, and Software Development.
 
-I’m always happy to expand my professional network; please reach out to me here or by email at: <mark.dodd@matalinodesign.com>
+Examples of my work can be found at my [portfolio.](link://slug/portfolio)
 
-Specialities:
+My [CV](/resume/Mark-Dodd-Resume.pdf) is available for download and I’m always happy to expand my professional network. Reach out to me at one of the social networks linked below.
 
-* Data Science (Python, R, SQL) 
-* Data Cleaning (pandas, NumPy)
-* Machine Learning (scikit-learn, TensorFlow, Keras)
-* Data Visualization (matplotlib, seaborn, plotly, ggplot2, Tableau)
-* Data Mining (SQL, API’s, XML, JSON, CSV, Beautiful Soup, regex) 
-* Software Development (Python, SQL, C#, PLC, HMI)
-* Uncovering Key Insights & Business Value
-* Project Management
-* Team Collaboration & Leadership
-* Problem Solving & Analysis
-* Process Improvements & Efficiencies 
+<div class="container">
+    <div class="row justify-content-center">
+        <img src="/images/logos/python-small.png">
+        <img src="/images/logos/Rlogo-small.png">
+        <img src="/images/logos/tf-small.png">
+        <img src="/images/logos/sql-small.png">
+        <img src="/images/logos/tableau-small.jpg">
+    </div>
+    <div class="row justify-content-center">
+        <img src="/images/logos/pandas-small.png">
+        <img src="/images/logos/numpy-small.png">
+        <img src="/images/logos/spark-small.png">
+    </div>
+</div>

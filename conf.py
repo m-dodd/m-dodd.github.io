@@ -148,7 +148,8 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/", "Home"),
-        ("/bio/", "Bio"),
+        ((("/bio/", "Bio"),
+          ("/resume/Mark-Dodd-Resume.pdf", "Resume")), "Bio"),
         ("/portfolio/", "Portfolio"),
         # ((("/portfolio/", "Portfolio"),
         #   ("link://slug/dogs-vs-cats-final", "Convolutional Neural Network"),
