@@ -19,7 +19,7 @@ This was an incredibly fun project. I had always wanted to see what the distribu
 
 This project is best viewed [here](https://github.com/m-dodd/nhl-heatmap). The heatmap is interactive, and you can select if you want a view a Season of data, or an individual random game, or an individual player.
 
-The project was completed in Jupyter Notebooks and uses plotly to draw the rink surface and generate the heat map. I hope you take the opportunity to build this project yourself with the notebook I have provided so that you can play around with the interface and enjoy it as I have. I have provided some screen shots on the github `README.md` so that you can get a feel for the interface and the application.
+The project was completed in Jupyter Notebooks and uses plotly to draw the rink surface and generate the heat map. I hope you take the opportunity to build this project yourself with the notebook I have provided so that you can play around with the interface and enjoy it as I have. Additional screen shots are available on the [GitHub](https://github.com/m-dodd/nhl-heatmap) `README.md`, where you can also find all of the source code to replicate the project.
 
 ![Ovechkin](/images/ovechkin-crop.png)
 
