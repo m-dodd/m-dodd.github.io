@@ -149,12 +149,14 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/", "Home"),
         ((("/bio/", "Bio"),
-          ("/resume/Mark-Dodd-Resume.pdf", "Resume")), "Bio"),
+          ("/resume/Mark-Dodd-Resume.pdf", "CV")), "Bio"),
         ("/portfolio/", "Portfolio"),
-        # ((("/portfolio/", "Portfolio"),
-        #   ("link://slug/dogs-vs-cats-final", "Convolutional Neural Network"),
-        #   ("https://github.com/m-dodd/nhl-heatmap", "NHL Heatmap")), "Abril's Portfolio")
-        # ,
+        ((("/portfolio/", "Portfolio"),
+          ("https://github.com/m-dodd/nhl-heatmap", "NHL Heatmap"),
+          ("link://slug/dogs-vs-cats-final", "Convolutional Neural Network"),
+          ("https://github.com/m-dodd/nhl-heatmap", "NHL Heatmap"),
+          ("https://github.com/m-dodd/nhl-heatmap", "NHL Heatmap")), "Abril's Portfolio")
+        ,
         #("/blog/index.html", "Blog"),
     ),
 }
