@@ -1,5 +1,5 @@
 <!--
-.. title: Welcome to Mark Dodd's Data Science Journey
+.. title: Dodd's Data Science
 .. slug: index
 .. date: 2020-04-15 09:04:27 UTC-06:00
 .. tags:
