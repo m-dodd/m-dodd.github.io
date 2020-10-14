@@ -152,10 +152,10 @@ NAVIGATION_LINKS = {
           ("/resume/Mark-Dodd-Resume.pdf", "CV")), "Bio"),
         # ("/portfolio/", "Portfolio"),
         ((("/portfolio/", "Portfolio"),
-          ("https://github.com/m-dodd/nhl-heatmap", "NHL Heatmap"),
-          ("link://slug/dogs-vs-cats-final", "Convolutional Neural Network"),
-          ("https://github.com/m-dodd/nhl-heatmap", "NHL Heatmap"),
-          ("https://github.com/m-dodd/nhl-heatmap", "NHL Heatmap")), "Portfolio")
+          ("https://github.com/m-dodd/nhl-heatmap", "NHL Analytics"),
+          ("link://slug/dogs-vs-cats-final", "Image Classification"),
+          ("link://slug/nhl-prediction/", "NHL Prediction"),
+          ("https://medium.com/@buckthecanuck/climb-through-the-data-with-me-80fb144ea408", "Rock Climbing")), "Portfolio")
         ,
         #("/blog/index.html", "Blog"),
     ),
