@@ -150,12 +150,12 @@ NAVIGATION_LINKS = {
         ("/", "Home"),
         ((("/bio/", "Bio"),
           ("/resume/Mark-Dodd-Resume.pdf", "CV")), "Bio"),
-        ("/portfolio/", "Portfolio"),
+        # ("/portfolio/", "Portfolio"),
         ((("/portfolio/", "Portfolio"),
           ("https://github.com/m-dodd/nhl-heatmap", "NHL Heatmap"),
           ("link://slug/dogs-vs-cats-final", "Convolutional Neural Network"),
           ("https://github.com/m-dodd/nhl-heatmap", "NHL Heatmap"),
-          ("https://github.com/m-dodd/nhl-heatmap", "NHL Heatmap")), "Abril's Portfolio")
+          ("https://github.com/m-dodd/nhl-heatmap", "NHL Heatmap")), "Portfolio")
         ,
         #("/blog/index.html", "Blog"),
     ),
