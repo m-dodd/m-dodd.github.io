@@ -154,7 +154,7 @@ NAVIGATION_LINKS = {
         ((("/portfolio/", "Portfolio"),
           ("https://github.com/m-dodd/nhl-heatmap", "NHL Analytics"),
           ("link://slug/dogs-vs-cats-final", "Image Classification"),
-          ("link://slug/nhl-prediction/", "NHL Prediction"),
+          ("link://slug/nhl-prediction", "NHL Prediction"),
           ("https://medium.com/@buckthecanuck/climb-through-the-data-with-me-80fb144ea408", "Rock Climbing")), "Portfolio")
         ,
         #("/blog/index.html", "Blog"),
